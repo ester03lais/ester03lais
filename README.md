@@ -4,8 +4,6 @@
 
 <p align="left">Me chamo Ester Santos, tenho 22 anos e sou de Belo Horizonte, Minas Gerais, nascida e criada por aqui. Sempre fui apaixonada por tecnologia e atualmente estou fazendo um curso técnico em Análise e Desenvolvimento de Sistemas, onde estou no segundo semestre. Trabalho principalmente com desenvolvimento back-end, mas também atuo no front-end quando necessário.<br><br>No back-end, minhas principais linguagens e tecnologias utilizadas são Python, PHP, JSON e MySQL.<br>No front-end, trabalho com HTML, CSS e JavaScript.</p>
 
-##
-
 <div align="left">
   <a href="https://www.instagram.com/eester.la/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -17,9 +15,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-##
 
-### 🤖 Linguagens e Tecnologias
+###
+
+<h2> 🤖 Linguagens e Tecnologias</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
